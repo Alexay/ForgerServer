@@ -23,7 +23,7 @@ The first time you run the wrapper for a specified version of Gradle, it downloa
 
 
 Alternatively, if you use an IDE like IntelliJ, you can simply import a Gradle project:
-With IntelliJ IDEA up and running, click Import Project on the Welcome Screen, or File | Open on the main menu:
+With IntelliJ IDEA up and running, click Import Project on the Welcome Screen, or File | Open on the main menu: 
 
 In the pop-up dialog make sure to select Gradle's build.gradle file under the complete folder:
 
