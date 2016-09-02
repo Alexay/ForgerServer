@@ -30,7 +30,7 @@ In the pop-up dialog make sure to select Gradle's build.gradle file under the co
 IntelliJ IDEA will create a project with all the code from already entered.
 
 # Testing it out without the client
-When the server boots up it automatically sets up an upload form at the address (with default port) http://localhost:51731/, You can choose two images and see if everything works correctly.
+When the server boots up it automatically sets up an upload form at the address (with default port) http://localhost:51731/ , You can choose two images and see if everything works correctly.
 
 # Troubleshooting
 Some errors that you may encounter:
